@@ -3,11 +3,9 @@
 
 /*Variables de Colores*/
 :root {
-    --color-main: #4b33a8;
-    --color-main-dark: #221655;
-    --color-main-light: #785ce9;
-    --color-white: #ececec;
-    --color-gray: #e2e2e2;
+    --color-main: #103427;
+    --color-white: #d5d5d1;
+    --color-gray: #5e7e59;
     --color-red: #961818;
 }
 
