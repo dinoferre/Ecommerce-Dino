@@ -6,4 +6,8 @@ Este proyecto se realizó utilizando HTML, CSS y JavaScript.
 
 -Para estilizar la página y hacerla responsive a diferentes tamaños de pantalla, se utilizó el archivo CSS personalizado y los íconos de Bootstrap. También se incluyó un archivo JavaScript principal llamado "main.js" que maneja la funcionalidad principal de la página, y otro archivo JavaScript llamado "carrito.js" que se encarga de manejar la funcionalidad del carrito de compras.
 
-Link del proyecto en About 👉
+Dino Ferré 👽
+
+Link del proyecto 👇
+
+dinoferre.github.io/Ecommerce-Dino/
