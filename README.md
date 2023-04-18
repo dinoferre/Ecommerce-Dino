@@ -10,7 +10,4 @@ Dino Ferré 👽
 
 Link del proyecto 👇
 
-dinoferre.github.io/Ecommerce-Dino/
-
-
-![E-commerce](https://user-images.githubusercontent.com/105014048/232819293-70735b36-1519-461e-9869-ee0ee27f87d2.png)
+https://dinoferre.github.io/Ecommerce-Dino/
