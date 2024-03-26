@@ -9,5 +9,4 @@ Este proyecto se realizó utilizando HTML, CSS y JavaScript.
 Dino Ferré 👽 - Link del proyecto 👇
 
 https://dinoferre.github.io/Ecommerce-Dino/
-https://drive.google.com/file/d/1BzQo6yb8YnZYVbtx54uvH8fyFHQANS5x/view
-https://drive.google.com/file/d/1soGUd_AfXZ6kQVvF1My4HOE6T-qwOdCq/view
+https://app.aluracursos.com/program/certificate/e41f2042-c3c1-4433-93f6-126c845f13fb
